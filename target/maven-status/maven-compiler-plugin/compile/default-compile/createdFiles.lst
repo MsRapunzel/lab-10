@@ -1,0 +1,6 @@
+com/msrapunzel/MessageReceiverBean.class
+com/msrapunzel/MessageServlet.class
+com/msrapunzel/resources/JakartaEE10Resource.class
+com/msrapunzel/MessageSenderBean.class
+com/msrapunzel/JakartaRestConfiguration.class
+com/msrapunzel/ReceiveMessageServlet.class
